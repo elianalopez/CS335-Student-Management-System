@@ -161,8 +161,6 @@ This method would clear students.txt for the next preson who uses the program
 <p align="center">Overwriting the data that was originally null</p>
 
 
-
-<p align="center">
 ![Car-Running](Images/sms.gif)
-</p>
+
 
