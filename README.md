@@ -160,4 +160,6 @@ This method would clear students.txt for the next preson who uses the program
 
 <p align="center">Overwriting the data that was originally null</p>
 
+<p align="center"><img src="<p align="center"><img src="https://user-images.githubusercontent.com/39322110/112252843-24e35b80-8c34-11eb-9a15-f74db2a2c500.png"></p>
+"></p>
 
