@@ -1,5 +1,7 @@
 # Student Management System
 
+This project came into two parts, where it was first written as a commandline based program and then that functionality was moved over to GUIs implemented with the Java Swing framework. 
+
 A program that is fully created in Java that takes in and stores Student information, such as full name, student ID, university email, password, GPA, major, and minor.
 
 ## Authors
