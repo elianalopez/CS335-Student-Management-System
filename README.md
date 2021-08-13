@@ -160,10 +160,36 @@ This method would clear students.txt for the next preson who uses the program
 
 <p align="center">Overwriting the data that was originally null</p>
 
+## Gifs of the Student Management System in GUI format
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/elianalopez/CS335-Student-Management-System/main/Images/sms1.gif" alt="animated" />
+</p>
+<p align="center">Pressing the Sign Up Button calls another screen</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/elianalopez/CS335-Student-Management-System/main/Images/sms2.gif" alt="animated" />
+</p>
+<p align="center">When the username or password is no correct/does not exist</p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/elianalopez/CS335-Student-Management-System/main/Images/sms3.gif" alt="animated" />
+</p>
+<p align="center">Illustrating what invalid information would look like to the user if it is not corrected</p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/elianalopez/CS335-Student-Management-System/main/Images/sms4.gif" alt="animated" />
+</p>
+<p align="center">After the user was created from the previous process above this login is now valid and another window with user information will pop-up</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/elianalopez/CS335-Student-Management-System/main/Images/sms.gif" alt="animated" />
 </p>
+<p align="center">What this process looks like through a desktop </p>
+
 
 
 
